@@ -1,6 +1,6 @@
 {
     "lang": "EN",
-    "app_version": "1.8.0",
+    "app_version": "1.5.1",
     "release_date": "29-07-2026",
     "check_updates": true,
     "update_url": "https://raw.githubusercontent.com/Gwigzz/test_version/main/version.json",
